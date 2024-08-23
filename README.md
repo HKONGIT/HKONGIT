@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/hemantkumar297/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/heyhritik_?t=lWBRTB2Lti2y2pZoTfMpww&s=09" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/_hemant_088/" target="_blank">
